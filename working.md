@@ -38,7 +38,7 @@ $u$ = $\frac{y^2}{2\mu}\frac{\delta P}{\delta x}+yC_1+C_2$
 
 ## Conditions
 
-when $y$ = $0$ , $u$ = $C_2$
+when $y$ = $0$ , $u$ = $C_2$ $\leftarrow$ speed of bottom plate due to no slip condition
 
 when $y$ = $h$ , $u$ = $0$
 
