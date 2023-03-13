@@ -64,4 +64,4 @@ $q$ = $\frac{\delta P}{\delta x}(\frac{h^3}{6\mu}-\frac{h^3}{4\mu})+\frac{C_2h}{
 
 $q - \frac{C_2h}{2}$ = $-\frac{\delta P}{\delta x}\frac{h^3}{12\mu}$
 
-$\frac{\delta P}{\delta x}$ = $-\frac{12\mu(q-\frac{C_2h}{2})}{h^3}$
+$\frac{\delta P}{\delta x}$ = $-\frac{12\mu(q-\frac{C_2h}{2})}{h^3}$ $\leftarrow$ in $Pa$, to convert to $kPa$ flip negative sign and divide the final answer by 1000
