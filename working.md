@@ -15,16 +15,16 @@ $Fr$ = $\sqrt\frac{q^2}{gy^3}$
 
 Check that $Fr$ > $1$
 
-## Calculate Virtual Head at Start from discharge $q$ and intial depth $y_1$
+## Calculating Virtual Head at Start from discharge $q$ and intial depth $y_1$
 $E_1$ = $y_1+\frac{q^2}{2gy_1^3}$
 
 ## Finding Critical Depth $y_c$
 $y_c$ = $\frac{y_c^2}{g}^\frac 13$
 
-## Calculate Critical Head after Step
+## Calculating Critical Head after Step
 $E_c$ = $y_c+\frac{q^2}{2gy_c^3}$
 
-## Calculate Step Height $\delta z$
+## Calculating Step Height $\delta z$
 $\delta z$ = $E_c$ - $E_1$
 
 # Question 3
@@ -64,6 +64,6 @@ $q$ = $\frac{\delta P}{\delta x}(\frac{h^3}{6\mu}-\frac{h^3}{4\mu})+\frac{C_2h}{
 
 $q - \frac{C_2h}{2}$ = $-\frac{\delta P}{\delta x}\frac{h^3}{12\mu}$
 
-## Calculate Pressure Gradient $\frac{\delta P}{\delta x}$
+## Calculating Pressure Gradient $\frac{\delta P}{\delta x}$
 
 $\frac{\delta P}{\delta x}$ = $-\frac{12\mu(q-\frac{C_2h}{2})}{h^3}$ $\leftarrow$ in $Pa$, to convert to $kPa$ flip negative sign and divide the final answer by 1000
