@@ -5,7 +5,7 @@ $q$ = $vy$
 ## Finding Critical Depth $y_c$
 $g$ = $9.81\frac{m}{s^2}$
 
-$y_c$ = $\frac{y_c^2}{g}^\frac 13$
+$y_c$ = $\frac{q^2}{g}^\frac 13$
 
 # Question 2
 ## Testing the Critical State with the Froude Number $Fr$
@@ -19,7 +19,7 @@ Check that $Fr$ > $1$
 $E_1$ = $y_1+\frac{q^2}{2gy_1^3}$
 
 ## Finding Critical Depth $y_c$
-$y_c$ = $\frac{y_c^2}{g}^\frac 13$
+$y_c$ = $\frac{q^2}{g}^\frac 13$
 
 ## Calculating Critical Head after Step
 $E_c$ = $y_c+\frac{q^2}{2gy_c^3}$
