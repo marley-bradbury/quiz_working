@@ -25,7 +25,7 @@ $y_c$ = $\frac{q^2}{g}^\frac 13$
 $E_c$ = $y_c+\frac{q^2}{2gy_c^2}$
 
 ## Calculating Step Height $\delta z$
-$\delta z$ = $E_c$ - $E_1$
+$\delta z$ = $E_1$ - $E_c$
 
 # Question 3
 ## Integrating $\frac{\delta^2u}{\delta y^2}$
